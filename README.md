@@ -3,15 +3,19 @@ My name is **Sohaib Ilyas**, 27-year old from Pakistan. Most of the time I'm wri
 
 ## Projects
 
-- ### [Webhuk](https://webhuk.com)
+- ### Webhuk
 Auto-reply Facebook page comments based on keywords, for more info watch this [YouTube video](https://www.youtube.com/watch?v=Ld-sGXdLFtM)
 
 Laravel, Vuejs, Tailwind
 
-- ### [eSwitchy](https://eswitchy.com)
+https://webhuk.com
+
+- ### eSwitchy
 Control eSwitchy IoT devices around the world instantly, response time ~10-200ms.
 
 CodeIgniter, jQuery, Bootstrap
+
+https://eswitchy.com
 
 ## Social
 - Twitter: [@isohaibilyas](https://twitter.com/isohaibilyas)
