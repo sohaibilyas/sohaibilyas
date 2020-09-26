@@ -1,8 +1,6 @@
 # Hi, Salam Everyone :wave:
 My name is **Sohaib Ilyas**, from Pakistan. Most of the time I'm writing Laravel & Vuejs, sometimes Nodejs, thanks to Udemy *20+ hrs* course :relaxed: Currently learning Reactjs, loving it :heart_eyes:
 
-Working on my secret Udemy course, 15+ videos are done, preview-videos will be available soon.
-
 ## Projects
 
 - ### Webhuk
