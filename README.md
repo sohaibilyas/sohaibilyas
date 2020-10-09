@@ -3,7 +3,7 @@ My name is **Sohaib Ilyas**, from Pakistan. Most of the time I'm writing Laravel
 ## Projects
 
 - ### Webhuk
-  - Auto-reply Facebook page comments based on keywords, for more info watch this [YouTube video](https://www.youtube.com/watch?v=Ld-sGXdLFtM)
+  - Auto-reply Facebook page comments based on keywords, auto-reply Facebook Page comments, trigger email or webhook on incoming comment. For more info watch this [YouTube video](https://www.youtube.com/watch?v=Ld-sGXdLFtM)
 
   - Laravel, Vuejs, Tailwind, Ubuntu, Nginx, MySQL, PHP, Linode VPS
 
