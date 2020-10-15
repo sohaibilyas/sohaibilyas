@@ -1,4 +1,4 @@
-# Hi, Salam Everyone :wave:
+# Salam Everyone :wave:
 My name is **Sohaib Ilyas**, from Pakistan. Most of the time I'm writing Laravel & Vuejs, sometimes Nodejs. Recently learned about Livewire so I'm super excited to try it out asap.
 
 ## Projects
