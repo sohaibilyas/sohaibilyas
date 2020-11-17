@@ -8,7 +8,9 @@ My name is **Sohaib Ilyas**, from Pakistan. Most of the time I'm writing Laravel
 
   - Laravel, Vuejs, Tailwind, Ubuntu 18, Nginx, MySQL, PHP, Linode VPS
 
-  - https://webhuk.com
+  - Website: https://webhuk.com
+  - Twitter: https://twitter.com/webhuk
+  - Facebook: https://fb.com/webhuk
 
 - ### eSwitchy
   - Control eSwitchy IoT devices around the world instantly, response time ~10-200ms.
