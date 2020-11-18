@@ -17,7 +17,9 @@ My name is **Sohaib Ilyas**, from Pakistan. Most of the time I'm writing Laravel
 
   - CodeIgniter, jQuery, Bootstrap, Debian 9, Apache, MySQL, PHP, Linode VPS
 
-  - https://eswitchy.com
+  - Website: https://eswitchy.com
+  - Twitter: https://twitter.com/eswitchy
+  - Facebook: https://fb.com/eswitchy
 
 ## Social
 - Twitter: [@isohaibilyas](https://twitter.com/isohaibilyas)
