@@ -1,5 +1,5 @@
 # Salam Everyone :wave:
-Sohaib Ilyas, from Pakistan. Most of the time I'm writing Laravel & Vuejs, sometimes Nodejs. Recently learned about Livewire, it's super cool and much faster development approach for PHP developer.
+Sohaib Ilyas, from Pakistan. Most of the time I'm writing Laravel & Vuejs, sometimes Nodejs.
 
 ## Projects
 
