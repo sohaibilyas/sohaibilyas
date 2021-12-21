@@ -15,5 +15,4 @@ Sohaib Ilyas, from Pakistan. Most of the time I'm writing Laravel & Vuejs, somet
 ## Social
 - Twitter: [@isohaibilyas](https://twitter.com/isohaibilyas)
 - YouTube: [youtube.com/sohaibilyas](https://youtube.com/sohaibilyas)
-- Udemy: [udemy.com/user/sohaibilyas](https://www.udemy.com/user/sohaibilyas)
 - Website: [sohaibilyas.com](https://sohaibilyas.com)
