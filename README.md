@@ -10,6 +10,7 @@ Sohaib Ilyas, from Pakistan. Most of the time I'm writing Laravel & Vuejs, somet
   - Free Spot Signals
 
   - Website: https://kryptov.com
+  - Twitter: https://twitter.com/kryptovofficial
   - Facebook: https://fb.com/kryptovofficial
 
 ## Social
