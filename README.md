@@ -1,5 +1,5 @@
-# Salam Everyone :wave:
-Sohaib Ilyas, from Pakistan. Most of the time I'm writing Laravel & Vuejs, sometimes Nodejs.
+# :wave:
+Most of the time I'm writing Laravel, Vuejs and Facebook API.
 
 ## Projects
 
