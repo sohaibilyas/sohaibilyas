@@ -1,1 +1,3 @@
-- Website: [sohaibilyas.com](https://sohaibilyas.com)
+- [sohaibilyas.com](https://sohaibilyas.com)
+- [qoest.com](https://qoest.com)
+- [kryptov.com](https://kryptov.com)
