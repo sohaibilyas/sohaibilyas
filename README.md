@@ -1,3 +1,4 @@
 - [sohaibilyas.com](https://sohaibilyas.com)
 - [qoest.com](https://qoest.com)
+- [priceo.co](https://priceo.co)
 - [kryptov.com](https://kryptov.com)
