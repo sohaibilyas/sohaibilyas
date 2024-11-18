@@ -1,4 +1,9 @@
-- [sohaibilyas.com](https://sohaibilyas.com)
-- [qoest.com](https://qoest.com)
-- [priceo.co](https://priceo.co)
-- [kryptov.com](https://kryptov.com)
+💻 https://sohaibilyas.com
+
+💼 https://qoest.com
+
+⚡ https://kryptov.com
+
+🛒 https://priceo.co
+
+📈 https://socialdash.io
