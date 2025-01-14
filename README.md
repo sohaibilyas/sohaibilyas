@@ -1,6 +1,6 @@
 💻 https://sohaibilyas.com
 
-💼 https://qoest.com
+💼 https://developers.qoest.com
 
 ⚡ https://kryptov.com
 
