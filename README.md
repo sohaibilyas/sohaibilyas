@@ -1,5 +1,7 @@
 💻 https://sohaibilyas.com
 
+🔖   https://reseek.net
+
 👨‍💻 https://developers.qoest.com
 
 💼 https://gigup.qoest.com
