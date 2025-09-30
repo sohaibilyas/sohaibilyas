@@ -1,6 +1,8 @@
 💻 https://sohaibilyas.com
 
-🔖 https://reseek.net
+🔎 https://leadmatically.com
+
+📝 https://reseek.net
 
 👨‍💻 https://developers.qoest.com
 
