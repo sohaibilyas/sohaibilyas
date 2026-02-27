@@ -6,7 +6,7 @@
 
 👨‍💻 https://developers.qoest.com
 
-💼 https://gigup.qoest.com
+💼 https://giguphq.com
 
 ⚡ https://kryptov.com
 
