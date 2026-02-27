@@ -1,13 +1,13 @@
-💻 https://sohaibilyas.com
+💼 https://qoest.com
+
+💻 https://giguphq.com
 
 🔎 https://leadmatically.com
 
-📝 https://reseek.net
-
 👨‍💻 https://developers.qoest.com
 
-💼 https://giguphq.com
+📝 https://reseek.net
 
 ⚡ https://kryptov.com
 
-📈 https://socialdash.io
+🙎‍♂️ https://sohaibilyas.com
